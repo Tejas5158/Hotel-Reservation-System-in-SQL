@@ -4,7 +4,7 @@ SQL(MySQL)
 Hotel Reservation System in SQL: Project Report
 Introduction The Hotel Reservation System in SQL is a database management project aimed at streamlining hotel operations such as guest management, room allocation, reservations, and payment tracking. The system leverages SQL for efficient data handling and ensures data integrity through relationships between tables. This report provides an overview of the database design, data management, and key queries implemented.
 ________________________________________
-Features and Functionalities
+Features and Functionalities.
 1.	Guest Management:
 o	Tracks guest details such as contact information and address.
 2.	Room Management:
